@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hello! 👋
 
-<!--
-**abregkaplan/abregkaplan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Abreg Kaplan, a passionate C# .NET and MSSQL developer. I focus on adding value to the software world with my experience in these technologies.
 
-Here are some ideas to get you started:
+## My Areas of Expertise
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🚀 I develop Windows Form Application projects.
+- 💻 I create database integrations using C# .NET technologies.
+- 📊 I design and optimize databases on MSSQL.
+
+## My Goal
+
+To share the software development journey with others, contribute to the community, and constantly learn new technologies.
+
+## Contact
+
+- 📧 Email: m.abregkaplan@gmail.com
+
+- 💼 LinkedIn: [abregkaplan](https://www.linkedin.com/in/abreg-kaplan/)
+
+If you share similar interests or want to discuss my projects, feel free to reach out. Excited to collaborate and create better projects together!
+
+Thank you!
